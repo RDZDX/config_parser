@@ -1,0 +1,7 @@
+; Config_parser.def : Declares the module parameters for the DLL.
+
+LIBRARY      "Config_parser"
+DESCRIPTION  'Config_parser Windows Dynamic Link Library'
+
+EXPORTS
+    vm_entry @1
