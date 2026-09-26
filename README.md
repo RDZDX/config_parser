@@ -3,5 +3,6 @@ App demonstrate how to use text file as config data source. If app and text file
 For using with Nokia mobile phone, app must be signed with IMSI (your SIM card) code.
 https://vxpatch.luxferre.top/
 Application files - "[Config_parser.vxp](https://github.com/RDZDX/config_parser/blob/main/Config_parser.vxp?raw=true)".
+Application file - "[Config_parser.vxp](https://rdzdx.github.io/config_parser/Config_parser.vxp)".
 ![alt text](https://rdzdx.github.io/config_parser/picture.jpg)
 ![alt text](https://rdzdx.github.io/config_parser/picture1.jpg)
